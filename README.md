@@ -6,7 +6,7 @@ Career Development Center dibuat untuk siswa yang akan melaksanakan PKL (Praktik
 * CSS
 * Javascript
 
-## framework ##
+## Framework ##
 * Bootstrap 5
 
 ## Software Pendukung ##
