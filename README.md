@@ -12,6 +12,7 @@ Website Career Development Center dibuat oleh Saya dan Teman-teman yang melaksan
 ## Software Pendukung ##
 * Visual Studio Code
 * XAMPP 
+* Google Chrome
 
 ## Instalasi
 1. Download file zip atau cloning dengan perintah `git clone http://github.com/iqbalprasettya/career-development-center/` pada terminal
