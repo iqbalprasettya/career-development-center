@@ -15,7 +15,7 @@ Website Career Development Center dibuat oleh Saya dan Teman-teman yang melaksan
 * Google Chrome
 
 ## Instalasi
-1. Download file zip atau cloning dengan perintah `git clone http://github.com/iqbalprasettya/career-development-center/` pada terminal
+1. Download file zip atau cloning dengan perintah `git clone https://github.com/iqbalprasettya/career-development-center.git` pada terminal
 2. Ekstrak file ke dalam file `/htdocs`
 3. Jalankan XAMPP Apache dan Mysql
 4. Masuk ke `phpmyadmin` dan import database 
